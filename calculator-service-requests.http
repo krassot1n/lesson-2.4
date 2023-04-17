@@ -1,0 +1,5 @@
+### Проверяем калькулятор
+GET http://localhost:8080/calculator/plus?num1=0&num2=2
+
+### Проверяем деление
+GET http://localhost:8080/calculator/divide?num1=32&num2=0
